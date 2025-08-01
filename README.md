@@ -1,2 +1,2 @@
 # emlak_fotograflari
-Emlak ilanlarına ait görseller
+Emlak satış sitesi için ilanlar ait görseller
